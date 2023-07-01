@@ -1,7 +1,7 @@
 {
-  "name": "template-web-app",
-  "version": "1.7.1",
-  "description": "The web application template.",
+  "name": "practice-xstate",
+  "version": "1.0.0",
+  "description": "The practice of XState",
   "license": "MIT",
   "private": true,
   "scripts": {

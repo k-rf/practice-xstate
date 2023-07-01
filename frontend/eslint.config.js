@@ -1,3 +1,3 @@
-import { baseRules, reactRules, tsRules } from "template-web-app-config";
+import { baseRules, reactRules, tsRules } from "practice-xstate-config";
 
 export default [...baseRules, tsRules, reactRules];

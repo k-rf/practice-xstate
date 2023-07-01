@@ -1,6 +1,6 @@
 {
-  "name": "template-web-app-root",
-  "remoteUser": "template-web-app-root",
+  "name": "practice-xstate-root",
+  "remoteUser": "practice-xstate-root",
   "dockerComposeFile": "../docker-compose.dev.yaml",
   "service": "root",
   "postAttachCommand": "yarn install",

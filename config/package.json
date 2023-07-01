@@ -1,6 +1,6 @@
 {
-  "name": "template-web-app-config",
-  "version": "1.7.1",
+  "name": "practice-xstate-config",
+  "version": "1.0.0",
   "license": "MIT",
   "private": true,
   "type": "module",

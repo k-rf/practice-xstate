@@ -1,6 +1,6 @@
 {
-  "name": "template-web-app-frontend",
-  "version": "1.7.1",
+  "name": "practice-xstate-frontend",
+  "version": "1.0.0",
   "license": "MIT",
   "private": true,
   "type": "module",
@@ -83,7 +83,7 @@
     "prettier": "^2.8.6",
     "react-test-renderer": "^18.2.0",
     "storybook": "^7.0.9",
-    "template-web-app-config": "../config",
+    "practice-xstate-config": "../config",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.1.2",
     "typescript": "^5.0.2",

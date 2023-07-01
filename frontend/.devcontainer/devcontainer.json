@@ -1,6 +1,6 @@
 {
-  "name": "template-web-app-frontend",
-  "remoteUser": "template-web-app-frontend",
+  "name": "practice-xstate-frontend",
+  "remoteUser": "practice-xstate-frontend",
   "dockerComposeFile": "../../docker-compose.dev.yaml",
   "service": "frontend",
   "postAttachCommand": "yarn install",

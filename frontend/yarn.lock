@@ -9085,7 +9085,7 @@ temp@^0.8.4:
   dependencies:
     rimraf "~2.6.2"
 
-template-web-app-config@../config:
+practice-xstate-config@../config:
   version "1.6.0"
   dependencies:
     "@cspell/eslint-plugin" "^6.31.1"
